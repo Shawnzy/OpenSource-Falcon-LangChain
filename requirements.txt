@@ -1,0 +1,8 @@
+python-dotenv
+langchain
+ipykernel
+huggingface_hub
+youtube-transcript-api
+transformers
+openai
+tiktoken
